@@ -1,0 +1,5 @@
+shutdown.exe
+vssadmin.exe
+BlackSuit.txt
+blacksuit.txt
+bcdedit.exe
