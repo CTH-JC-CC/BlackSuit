@@ -3,3 +3,80 @@ vssadmin.exe
 BlackSuit.txt
 blacksuit.txt
 bcdedit.exe
+Q7RNpp.exe
+AAn3e9.exe
+svhost.exe
+svhost.sa
+GRB_NET.exe
+453257c3494addafb39cb6815862403e827947a1e7737eb8168cd10522465deb.bin.sample
+netscan.exe
+netscan.exe
+winrar-x64-550.exe
+WinRAR-5.50-x64.exe
+winrar-x64-550 (1).exe
+WinRAR_x64.exe
+WinRAR_(64bit)_v5.50.exe
+WinRar.exe
+WinRAR5.50.ENx64.exe
+WinRAR5.50.ENx64 (1).exe
+winrar 550 x64  arch.exe
+site winrar-x64-550.exe
+setup.exe
+winrar-550-64bit.exe
+WinRAR 5.50 (64-bit).exe
+winrar5.50.exe
+TrustedInstaller.exe
+367d47ad48822caeedf73ce9f26a3a92db6f9f2eb18ee6d650806959b6d7d0a2-dropped.bin
+WinRAR 5.50 - x64.exe
+Setup.exe
+executable.exe
+winrar-x64-550_x64.exe
+winrar-x64-550en.exe
+Winrar-Setup-v5.5.exe
+program.exe
+iPhanmem.net-WinRAR-550-x64.exe
+Winrar.exe
+winrar5.5_x64.exe
+software.exe
+WinRAR_(64bit)_v5.50 (1).exe
+WinSCP.exe
+winscp
+winscp.exe
+hifeu.exe
+WinSCP.exe (copy)
+9zd04.exe
+SXP.exe
+PSEXESVC.exe
+PsExec Service Host
+psexesvc.exe
+ass.exe
+File_Id_0000021b-000a-0000-0500-00000a000000
+PSEXESVC[7].exe
+PSEXESVC[1].exe
+1409e010675bf4a40db0a845b60db3aae5b302834e80adeec884aebc55eccbf7-dropped.bin
+quar.bin
+PSEXESVC64.exe
+system@app@perception@v12@perception.apk@classes.dex
+423a633731c2b472e450ffb76c410134.virus
+1059-ec95c1f0ccd050a6f3e90c5ff2b09ce945ccb6d0
+fc9bc480e955ab1edd210fca4674c584.virus
+Q7RNpp.exe
+AAn3e9.exe
+svhost.exe
+svhost.sa
+GRB_NET.exe
+453257c3494addafb39cb6815862403e827947a1e7737eb8168cd10522465deb.bin.sample
+netscan.exe
+90ae0c693f6ffd6dc5bb2d5a5ef078629c3d77f874b2d2ebd9e109d8ca049f2c.bin..exe
+90ae0c693f6ffd6dc5bb2d5a5ef078629c3d77f874b2d2ebd9e109d8ca049f2c.bin.sample
+205096___17138f01-1387-4dfc-a52c-1a326cc007e3.exe
+sys32.exe
+1c849adcccad4643303297fb66bfe81c5536be39a87601d67664af1d14e02b9e.elf
+esxi_encryptor
+wi58q.exe
+b57e5f0c857e807a03770feb4d3aa254d2c4c8c8d9e08687796be30e2093286c.elf
+b57e5f0c857e807a03770feb4d3aa254d2c4c8c8d9e08687796be30e2093286c.sample
+rr.back
+rr
+lii.bin
+lii.exe
